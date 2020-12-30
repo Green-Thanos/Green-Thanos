@@ -1,13 +1,13 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Green-Thanos&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Green-Thanos&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Green-Thanos&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
 </p>
-<a href="https://github.com/Green-Thanos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Green-Thanos&repo=covid-tracker" />
-</a>
+
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
