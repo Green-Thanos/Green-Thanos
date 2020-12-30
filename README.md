@@ -1,7 +1,7 @@
 ### Hi there 👋
-<div align="center">
-![My github stats](https://github-readme-stats.vercel.app/api?username=Green-Thanos&hide=contribs,prs)
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Green-Thanos&&show_icons=true&theme=radical&line_height=27&v=5" alt="" /> 
+</p>
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
