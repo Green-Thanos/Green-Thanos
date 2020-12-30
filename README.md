@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" alt="" />
 </p>
+<a href="https://github.com/Green-Thanos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Green-Thanos&repo=covid-tracker" />
+</a>
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
