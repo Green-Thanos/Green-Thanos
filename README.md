@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Green-Thanos&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IdleMonster" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=IdleMonster&theme=tokyonight" />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
 </p>
