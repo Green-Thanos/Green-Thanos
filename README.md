@@ -10,7 +10,7 @@ const me = {
         serverless: ['mongo-realm'],
         misc: ["Firebase", "Socket.IO"]
     },
-    learning: ['C++', 'MySQL', 'Rust]
+    learning: ['C++', 'MySQL', 'Rust']
 };
 ```
 
