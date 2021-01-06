@@ -2,15 +2,15 @@
 const life = require('suffer')';
 
 const me = {
-    askMeAbout: ['App/Web Dev', 'Discord Bots', 'Cars', 'Basketball'],
+    askMeAbout: ['App/Web Dev', 'C++', 'Discord Bots', 'Cars', 'Basketball'],
     technologies:{
         backEnd: ['NodeJS', 'Express', 'Flask'],
-        frontEnd: ['React', 'Svelte'],
+        frontEnd: ['React', 'Svelte', 'Next JS', 'HTML5', 'CSS3', 'Sass', 'Tailwind'],
         database: ['MongoDB', 'Sqlite'],
         serverless: ['mongo-realm'],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ['C++', 'Typescript', 'Firebase', 'Socket.IO']
     },
-    learning: ['C++', 'MySQL', 'Rust']
+    learning: ['MySQL', 'Rust', 'Haskell']
 };
 ```
 
