@@ -4,11 +4,11 @@ const life = require('suffer')';
 const me = {
     askMeAbout: ['App/Web Dev', 'C++', 'Discord Bots', 'Cars', 'Basketball'],
     technologies:{
-        backEnd: ['NodeJS', 'Express', 'Flask'],
+        backEnd: ['NodeJS', 'Express', 'Flask', '.NET', 'Anything thats not a sloth'],
         frontEnd: ['React', 'Svelte', 'Next JS', 'HTML5', 'CSS3', 'Sass', 'Tailwind'],
-        database: ['MongoDB', 'Sqlite'],
+        database: ['MongoDB', 'Sqlite', 'Postgres'],
         serverless: ['mongo-realm'],
-        misc: ['C++', 'Typescript', 'Firebase', 'Socket.IO']
+        misc: ['C++', 'C', 'Typescript', 'Firebase', 'Socket.IO']
     },
     learning: ['MySQL', 'Rust', 'Haskell']
 };
