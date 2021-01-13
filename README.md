@@ -6,7 +6,7 @@ const me = {
     technologies:{
         backEnd: ['NodeJS', 'Express', 'Flask', '.NET', 'Anything thats not a sloth'],
         frontEnd: ['React', 'Svelte', 'Next JS', 'HTML5', 'CSS3', 'Sass', 'Tailwind'],
-        database: ['MongoDB', 'Sqlite', 'Postgres'],
+        database: ['MongoDB', 'Sqlite', 'Postgres', 'MySQL'],
         serverless: ['mongo-realm'],
         misc: ['C++', 'C', 'Typescript', 'Firebase', 'Socket.IO']
     },
