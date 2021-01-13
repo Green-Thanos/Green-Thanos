@@ -2,9 +2,9 @@
 const life = require('suffer')';
 
 const me = {
-    askMeAbout: ['App/Web Dev', 'C++', 'Discord Bots', 'Cars', 'Basketball'],
+    askMeAbout: ['App/Web Dev', 'Discord Bots', 'Cars', 'Basketball'],
     technologies:{
-        backEnd: ['NodeJS', 'Express', 'Flask', '.NET', 'Anything thats not a sloth'],
+        backEnd: ['NodeJS', 'Express/Koa', 'Flask', 'Anything thats not a sloth'],
         frontEnd: ['React', 'Svelte', 'Next JS', 'HTML5', 'CSS3', 'Sass', 'Tailwind'],
         database: ['MongoDB', 'Sqlite', 'Postgres', 'MySQL'],
         serverless: ['mongo-realm'],
