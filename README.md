@@ -2,15 +2,15 @@
 const life = require('suffer')';
 
 const me = {
-    askMeAbout: ['App/Web Dev', 'Discord Bots', 'Cars', 'Basketball'],
+    askMeAbout: ['App/Web Dev', 'Discord Bots'],
     technologies:{
         backEnd: ['NodeJS', 'Express/Koa', 'Flask', 'Anything thats not a sloth'],
         frontEnd: ['React', 'Svelte', 'Next JS', 'HTML5', 'CSS3', 'Sass', 'Tailwind'],
-        database: ['MongoDB', 'Sqlite', 'Postgres', 'MySQL'],
+        database: ['MongoDB', 'Sqlite', 'Postgres', 'MySQL', 'FaunaDB'],
         serverless: ['mongo-realm'],
-        misc: ['C++', 'C', 'Typescript', 'Firebase', 'Socket.IO']
+        misc: ['C++', 'C', 'Typescript', 'Firebase', 'Rpi']
     },
-    learning: ['MySQL', 'Rust', 'Haskell']
+    learning: ['Rust', 'Haskell']
 };
 ```
 
@@ -22,6 +22,8 @@ const me = {
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
 </p>
+
+- 🔭 I’m currently working on lot's of crap, pushing a lot of stuff to private repos
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
