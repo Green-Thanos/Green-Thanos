@@ -10,7 +10,7 @@ const me = {
         serverless: ['mongo-realm'],
         misc: ['C++', 'C', 'Typescript', 'Firebase', 'Rpi']
     },
-    learning: ['Rust', 'Haskell']
+    learning: ['Rust', 'Haskell', 'ASM']
 };
 ```
 
@@ -23,7 +23,7 @@ const me = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
 </p>
 
-- 🔭 I’m currently working on lot's of crap, pushing a lot of stuff to private repos
+- 🔭 I’m currently working on a compiler engine and web server (and a programming language but screw that)
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
