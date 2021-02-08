@@ -23,7 +23,7 @@ const me = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
 </p>
 
-- 🔭 I’m currently working on a compiler engine and web server (and a programming language but screw that)
+- 🔭 I’m currently working on a programming language. 
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
