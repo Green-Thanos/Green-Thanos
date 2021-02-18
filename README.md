@@ -23,7 +23,7 @@ const me = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Thanos&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Thanos&currStreakNum=2FD3EB&fire=pink&sideLabels=F00" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Thanos&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=tokyonight" />
  </p>
 
 - 🔭 I’m currently working on a programming language. 
