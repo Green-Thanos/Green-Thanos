@@ -8,8 +8,9 @@ const me = {
         frontEnd: ['React', 'Next JS', 'Sass', 'Tailwind'],
         database: ['MongoDB', 'Postgres', 'MySQL', 'FaunaDB'],
         serverless: ['mongo-realm'],
-        misc: ['C++', 'C', 'Typescript', 'Docker', 'Firebase', 'Rpi']
+        misc: ['Docker', 'Firebase', 'Rpi']
     },
+    languages: ['C++', 'C', 'Typescript'].
     learning: ['Rust', 'ASM']
 };
 ```
@@ -26,7 +27,7 @@ const me = {
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Thanos&theme=tokyonight" />
  </p>
 
-- 🔭 I’m currently working on a programming language. 
+- 🔭 Working with fuse
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
