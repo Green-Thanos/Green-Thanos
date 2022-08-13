@@ -1,9 +1,3 @@
-```javascript
-const life = require('suffer')';
-
-const status = "I'm not doing so well right now. I'll be alright. One Day. Just not today.";
-```
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Green-Thanos&&show_icons=true&theme=tokyonight&line_height=27&v=5" /> 
 </p>
