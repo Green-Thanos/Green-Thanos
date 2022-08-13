@@ -10,7 +10,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Thanos&theme=tokyonight" />
  </p>
 
-- 🔭 Busy asf with not much time to program anymore. Hence the lack of project work. Send project ideas to my discord: hurb#7444
+- Unmotivated idiot
 
 <!--
 **Green-Thanos/Green-Thanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
